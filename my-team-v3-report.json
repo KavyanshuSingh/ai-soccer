@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "archive": "C:\\Users\\Kavyanshu\\OneDrive\\Desktop\\Mlfootball_env-main\\Mlfootball_env-main\\participants\\dist\\my-team-v3.zip",
+  "sha256": "1b8d52110327be7479da993ccbfad4e4c3031371bef8630812de7d184944fd78",
+  "team_name": "argentina",
+  "command": [
+    "python",
+    "-m",
+    "team_bot.bot",
+    "--model",
+    "team_bot/models/example_policy.json"
+  ],
+  "compressed_bytes": 17438,
+  "uncompressed_bytes": 64008,
+  "file_count": 11,
+  "dependencies": [],
+  "model_files": [
+    "team_bot/models/example_policy.json",
+    "team_bot/models/test_policy.json",
+    "team_bot/models/test_policy10.json"
+  ],
+  "errors": [],
+  "warnings": []
+}
